@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет, я Равшанбек 👋
 
-<!--
-**ravshanbekrakhmetullayev-ui/ravshanbekrakhmetullayev-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA Engineer** из Казахстана. Тестирую веб и мобильные приложения, API и бэкенд-сервисы.
 
-Here are some ideas to get you started:
+### 🧪 Что делаю
+- Ручное тестирование веб и мобильных приложений
+- Тестирование REST API (Postman)
+- Тест-дизайн: тест-кейсы, чек-листы, баг-репорты
+- Регрессионное и смоук-тестирование
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Инструменты
+- **API:** Postman
+- **Баг-трекинг и документация:** Jira, Confluence, Notion
+- **DevOps:** Git, GitHub, GitLab, Kubernetes (Lens)
+- **Дизайн и макеты:** Figma, Miro
+- **Автоматизация:** Java (изучаю)
+
+### 💼 Опыт
+- Тестирование в финтех и e-commerce проектах (SalutDev / Sber, Uzum)
+
+### 📫 Связь
+- Email: ravshanbek.rakhmetullayev@gmail.com
